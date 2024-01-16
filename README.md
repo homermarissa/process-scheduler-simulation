@@ -6,6 +6,8 @@
 [Matthew Lewis](https://github.com/jamespeachh) (jamespeachh)<br>
 [Shane Simpson](https://github.com/ShaneS678)
 
+## Description:
+
 This is a process scheduler simulation program that I worked on in my Operating Systems class with Matthew Lewis and Shane Simpson. 
 
 1. We have a set of processes with different attributes such as arrival time, burst time, process ID, remaining time, and priority
