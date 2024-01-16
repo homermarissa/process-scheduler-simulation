@@ -1,5 +1,10 @@
 # process-scheduler-simulation
-Group members: Marissa Homer, Matthew Lewis, Shane Simpson
+
+## Group Members:
+
+[Marissa Homer](https://github.com/marissahomer)<br>
+[Matthew Lewis](https://github.com/jamespeachh) (jamespeachh)<br>
+[Shane Simpson](https://github.com/ShaneS678)
 
 This is a process scheduler simulation program that I worked on in my Operating Systems class with Matthew Lewis and Shane Simpson. 
 
